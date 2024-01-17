@@ -1,0 +1,34 @@
+{
+  "name": "replit",
+  "version": "1.0.0",
+  "description": "A challange for replit.com which is called My Portfolio ",
+  "main": "main.js ",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "webhint": "hint"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lostboyz923/replit-portfolio.git"
+  },
+  "keywords": [
+    "replit",
+    "portfolio",
+    "study",
+    "learning",
+    "winning"
+  ],
+  "author": "Patrick Hollywood AKA Robert Paulson",
+  "license": "MIT ",
+  "bugs": {
+    "url": "https://github.com/lostboyz923/replit-portfolio/issues"
+  },
+  "homepage": "https://github.com/lostboyz923/replit-portfolio#readme",
+  "devDependencies": {
+    "hint": "^7.1.10"
+  },
+  "dependencies": {
+    "clear": "^0.1.0",
+    "tachyons": "^4.12.0"
+  }
+}
